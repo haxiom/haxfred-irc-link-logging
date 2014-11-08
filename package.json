@@ -11,10 +11,10 @@
     "irc",
     "haxfred"
   ],
-  "bin": {
-  },
+  "bin": {},
   "dependencies": {
-    "haxfred-irc": ""
+    "haxfred-irc": "haxiom/haxfred-irc",
+    "request": "^2.46.0"
   },
   "engines": {
     "node": "*"
